@@ -1,3 +1,3 @@
 # RunGo
 
-ERP Systems
+ERP Systems Based on Microsoft Dynamics 365 Platform.
